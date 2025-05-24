@@ -4,5 +4,9 @@ void main() {
 // ie: if both values are equal then it's square otherwise rectangle.
 
 print("jkfjldjfld`")
+print("jkfjldjfld`")
+print("jkfjldjfld`")
+print("jkfjldjfld`")
+print("jkfjldjfld`")
 
 }
