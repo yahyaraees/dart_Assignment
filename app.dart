@@ -10,6 +10,9 @@ void main(){
  }
  else{
     print('not equal');
+    print('not equal');
+    print('not equal');
+    print('not equal');
  } 
 
 }
