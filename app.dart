@@ -30,21 +30,52 @@ void main(){
 
 
 
-var held = 20;
-var attend = 19;
+// var held = 20;
+// var attend = 19;
 
-var final_output = (attend/held)* 100;
+// var final_output = (attend/held)* 100;
 
-if (final_output > 75 ) {
-   print('you are elligible'); 
-}
-else{
-   print('you are not elligible');
-}
-print(final_output); 
+// if (final_output > 75 ) {
+//    print('you are elligible'); 
+// }
+// else{
+//    print('you are not elligible');
+// }
+// print(final_output); 
 
 
 
+
+//  List<String> days = [
+//     "Monday",
+//     "Tuesday",
+//     "Wednesday",
+//     "Thursday",
+//     "Friday",
+//     "Saturday",
+//     "Sunday",
+//   ];
+//   days.removeLast();
+//   print(days);
+
+ List<String> fruits = [
+    "apple",
+    "apple",
+    "mango",
+     'mango',
+     'mango',
+     'mango',
+     'mango',
+     'mango',
+     'mango',
+    "orange",
+    "banana",
+    "banana",
+  ];
+
+  List duplicateElements = fruits.toSet().toList();
+  print(duplicateElements);
+  print(duplicateElements);
 
 
 
